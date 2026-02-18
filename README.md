@@ -60,3 +60,9 @@ Build a classification model using Logistic Regression to predict whether a pass
 ## 🎯 Outcome:
 Successfully completed two intermediate-level Data Science projects demonstrating skills in data analysis, visualization, and machine learning model building.
 
+## Projects
+
+- [Project 3 – Titanic EDA](https://github.com/nnarender607/CODING-SAMURAI-INTERNSHIP-TASK/blob/main/Project-3-Titanic-EDA.ipynb)
+- [Project 4 – Titanic Logistic Regression](https://github.com/nnarender607/CODING-SAMURAI-INTERNSHIP-TASK/blob/main/Project-4-Titanic-Logistic-Regression.ipynb)
+
+
