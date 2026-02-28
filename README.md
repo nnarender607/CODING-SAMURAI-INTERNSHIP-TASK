@@ -1,4 +1,4 @@
-# CODING-SAMURAI-INTERNSHIP-TASK
+CODINGSAMURAI
 # Coding Samurai Data Science Internship Projects
 
 This repository contains the projects completed during my Data Science Internship at Coding Samurai.
